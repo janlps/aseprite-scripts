@@ -1,5 +1,5 @@
 -- export as psd file
--- created by Tsukina_7mochi
+-- created by @janlps
 -- DO NOT redistribute this code
 ------------------------------------------------------------
 
